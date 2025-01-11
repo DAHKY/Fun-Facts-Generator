@@ -1,9 +1,30 @@
-# Fun Facts Generator
+# Fun Fact Generator
 
-This repository contains fun fact generators in various programming languages. Each file outputs a random fun fact when run.
+This repository contains a collection of fun fact generators written in various programming languages.
 
-## How to use:
-1. Clone the repository.
-2. Run the script in your preferred programming language (e.g., `python fun_fact.py` for Python or `node fun_fact.js` for JavaScript).
+## Author
+This project is created by DAHKY.
 
-Feel free to add more facts or languages!
+## Languages
+
+- Python
+- Java
+- C
+- C++
+- Ruby
+- JavaScript
+- PHP
+- Swift
+- Go
+- Rust
+- Kotlin
+- TypeScript
+- Lua
+- Perl
+- Shell (Bash)
+
+Feel free to contribute additional languages or improvements!
+
+## How to run
+
+For each language, navigate to the respective directory and run the script in your preferred environment.
