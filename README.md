@@ -23,7 +23,7 @@ This project is created by DAHKY.
 - Perl
 - Shell (Bash)
 
-Feel free to contribute additional languages or improvements!
+Feel free to contribute additional languages or improvements
 
 ## How to run
 
